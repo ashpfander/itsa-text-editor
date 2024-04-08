@@ -44,9 +44,19 @@ THEN I should have proper build scripts for a webpack application
 ```
 
 ## Deployed Application Link
-[PWA Text Editor Deployed Application]()
+[PWA Text Editor Deployed Application](https://itsa-text-editor.onrender.com/)
 
 ## Screenshots of Application
+Landing page
+![Landing Page](./images/landing-page.png)
+Adding text and showing manifest
+![Manifest](./images/manifest.png)
+Service worker
+![Service Worker](./images/service-worker.png)
+IndexedDB database
+![IndexedDB Database](./images/indexeddb.png)
+After install
+![After Install](./images/after-install.png)
 
 ## Table of Contents
 
